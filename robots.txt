@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eloquentarduino.github.io/handbook-b7l4j8/sitemap.xml
